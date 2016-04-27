@@ -1,0 +1,9 @@
+{
+  "name": "falcor-json-graph",
+  "main": "src/index.d.ts",
+  "version": "^1.1.0",
+  "homepage": "https://github.com/Netflix/falcor-json-graph",
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160412142033"
+  }
+}
